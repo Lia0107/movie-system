@@ -1,0 +1,19 @@
+Elemental Attribute
+
+movieID: 08
+movieName: Elemental
+
+Synopsis:
+In a city where fire, water, land, and air residents live together, a fiery young woman and a go-with-the-flow guy discover something elemental: how much they actually have in common.
+
+Director:
+Peter Sohn
+
+Starring:
+Leah Lewis, Mamoudou Athie, Joe Hara, and more.
+
+Running Time:
+1hr 42min
+
+Genre:
+Animation, Family

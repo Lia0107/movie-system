@@ -1,0 +1,19 @@
+Fast X Movie Attribute
+
+movieID: 02
+movieName: Fast X
+
+Synopsis:
+Dominic Toretto must protect his crew and family from Cipher, who has joined forces with Dante, the son of Hernan Reyes. Years ago, Dom and his crew took out the nefarious Brazilian drug kingpin Hernan Reyes and decapitated his empire on a bridge in Rio de Janeiro. However, they have no idea that Dante witnessed it all and has spent the last twelve years masterminding a plan to make Dom pay the ultimate price. 
+
+Director:
+Louis Leterrier
+
+Starring:
+Vin Diesel, Michelle Rodriguez, Jason Momoa, John Cena, Jason Statham, and more.
+
+Running Time:
+2hr 20min
+
+Genre:
+Action, Adventure

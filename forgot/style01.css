@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+  
+body{
+    background-color: rgb(177, 177, 182);
+    color: #fff;
+    font-family: monospace, serif;
+    letter-spacing: 0.05em;
+}
+  
+h1{
+    font-size: 40px;
+}
+  
+form {
+    width: 400px;
+    padding: 150px 15px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form.control{
+    margin: 0 0 24px;
+}
+
+form.control input{
+    width: 100%;
+    padding: 14px 16px;
+    border: 0;
+    background: transparent;
+    font-family: monospace, serif;
+    letter-spacing: 0.05em;
+    font-size: 16px;
+}
+
+form.control input:hover, form.control input:focus{
+    outline: none;
+    border: 0;
+}
+
+button{
+    width:100%;
+    display: block;
+    padding: 14px 16px;
+    background: #605a6a;
+    border-radius: 20px;
+    margin-top: 20px;
+    border: 0;
+    color: #fff;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: #7056a0;
+    transition: 0.2s;
+}
+
+input{
+    border-radius: 20px;
+}

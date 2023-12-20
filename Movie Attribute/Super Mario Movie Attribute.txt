@@ -1,0 +1,19 @@
+Super Mario Movie Attribute
+
+movieID: 03
+movieName: The Super Mario Bros Movie
+
+Synopsis:
+With help from Princess Peach, Mario gets ready to square off against the all-powerful Bowser to stop his plans from conquering the world.
+
+Director:
+Aaron Horvath, Michael Jelenic
+
+Starring:
+Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, and more.
+
+Running Time:
+1hr 33min
+
+Genre:
+Family, Fantasy

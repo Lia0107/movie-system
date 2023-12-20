@@ -1,0 +1,19 @@
+Spiderman Attribute
+
+movieID: 06
+movieName: Spiderman: Across The Spider-Verse
+
+Synopsis:
+After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most.
+
+Director:
+Joaquim Dos Santos, Kemp Powers, Justin K. Thompson
+
+Starring:
+Oscar Isaac, Shameik Moore, Hailee Steinfeld, and more.
+
+Running Time:
+2hr 21min
+
+Genre:
+Action, Animation

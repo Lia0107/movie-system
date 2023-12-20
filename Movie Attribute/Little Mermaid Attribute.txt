@@ -1,0 +1,19 @@
+Little Mermaid Attribute
+
+movieID: 07
+movieName: The Little Mermaid
+
+Synopsis:
+Princess Ariel is a mermaid who dreams of exploring the human world. As she falls in love with a prince above-ground, she`s desperate enough to make a dangerous deal with sea witch Ursula. Ursula gives Ariel human legs in exchange for her beautiful voice, but the catch is: if the prince doesn`t kiss her within the next three days, Ariel is to be Ursula`s slave forever.
+
+Director:
+Rob Marshall
+
+Starring:
+Halle Bailey, Jonah Hauer-King, Daveed Diggs, and more.
+
+Running Time:
+2hr 16min
+
+Genre:
+Fantasy, Romance

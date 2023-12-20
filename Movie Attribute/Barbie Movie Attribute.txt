@@ -1,0 +1,19 @@
+Barbie Movie Attribute
+
+movieID: 01
+movieName: Barbie
+
+Synopsis:
+Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.
+
+Director:
+Greta Gerwig
+
+Starring:
+Margot Robbie, Ryan Gosling, Simu Liu, Will Ferrell, and more.
+
+Running Time:
+1hr 40min
+
+Genre:
+Romantic, Comedy
